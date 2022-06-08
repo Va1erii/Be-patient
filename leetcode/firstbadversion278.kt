@@ -1,3 +1,4 @@
+// Level: Easy
 class FirstBadVersion {
     fun firstBadVersion(n: Int): Int {
         var start = 0L
